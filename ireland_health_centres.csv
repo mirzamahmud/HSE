@@ -1,0 +1,199 @@
+ID,Hospital name,Latitude,Longitude,Address,Town,Eircode,Role,Phone
+IE_20036,Millstreet Community Hospital,52.058,-9.0779352,Killarney Road,Millstreet,P51 W9XE,Community,029 70003
+IE_20232,Tralee General Hospital,52.265,-9.6891505,Ratass,Tralee,V92 NX94,Paediatric Unit,066 7184000
+IE_20042,Clifden District Hospital,53.49,-10.015577,Tullyvoheen,Clifden,H71 YV83,Community,095 21301
+IE_20098,Carraig Mor Centre,51.899,-8.5080172,Shanakiel,Cork,T23 Y431,Mental Health,021 4541901
+IE_20099,St. Stephen's Hospital,51.955,-8.4011999,"Sarsfield Court, Glanmire",Cork,T45VK40,Mental Health,021 4821411
+IE_20109,St Fintan's Hospital,53.036,-7.2843071,Dublin Road,Portlaoise,R32 ED81,Mental Health,057 8621364
+IE_20111,St. Brigid's Hospital,53.857,-6.549244,Jervis Street,Ardee,A92 DRN0,Mental Health,041 6853264
+IE_20112,St. Davnet's Hospital,54.251,-6.9611807,"Derry Road, Rooskey",Monaghan,H18 T932,Mental Health,047 81822
+IE_20116,St. Loman's Hospital,53.533,-7.3205748,Devlin Road,Mullingar,N91 X36E,Mental Health,044 84300
+IE_20118,Newcastle Hospital,53.082,-6.097889,Killadreenan,Greystones,A63 CD30,Mental Health,01 2819001
+IE_20120,St. John of God Hospital,53.284,-6.1923221,Stillorgan Road,Blackrock,A94 YX77,Mental Health,01 2771400
+IE_20122,The Highfield Hospital Group,53.379,-6.2452771,"Swords Road, Whitehall",Dublin 9,D09 H343,Mental Health,01 8374444
+IE_20124,St. Edmundsbury Hospital,53.363,-6.4376619,Lucan Road,Lucan,K78 NW63,Mental Health,01 6218200
+IE_20128,Dublin Dental School and Hospital,53.342,-6.2519542,Lincoln Place,Dublin 2,D02 F859,Dental,01 6127200
+IE_20133,Drogheda Cottage Hospital,53.719,-6.3437028,Scarlet Street,Drogheda,A92 V6XE,Geriatric,041 9801100
+IE_20138,St. Patrick's Hospital,52.25,-7.1027072,John's Hill,Waterford,X91 XE86,Geriatric,051 848000
+IE_20139,New Houghton Hospital,52.389,-6.9377906,Chambersland,New Ross,Y34 K744,Geriatric,051 421266
+IE_20140,St. John's Community Hospital,52.496,-6.5722039,Munster Hill,Enniscorthy,Y21 N902,Geriatric,053 9233228
+IE_20144,St. Mary's Care Centre,53.536,-7.3514286,Longford Road,Mullingar,N91 A40T,Geriatric & Rehab,044 9394931
+IE_20159,Stewarts Hospital,53.355,-6.3657085,Palmerstown,Dublin 20,D20 A306,Intellectual Disability,01 6264444
+IE_20172,Heatherside Hospital,52.269,-8.598176,Streamhill Street,Buttevant,P51 KH63,Psycho-Geriatric,022 24377
+IE_20174,National Rehabilitation Hospital,53.276,-6.1525775,Rochestown Avenue,Dun Laoire,A96 E2H2,Rehabilitation,01 2355000
+IE_20175,The Royal Hospital,53.325,-6.2482321,"Morehampton Road, Donnybrook",Dublin 4,D04 HX40,Rehabilitation,01 4066600
+IE_20132,St. Joseph's Care Centre,53.724,-7.7865798,Dublin Road,Longford,N39 ER84,Geriatric,043 3346211
+IE_20107,St. Finian's Hospital,52.067,-9.5098208,Ballydribbeen,Killarney,V93 ND30,Mental Health,064 6631022
+IE_20290,Our Lady's Children's Hospital Crumlin,53.326,-6.3186032,Crumlin,Dublin 12,D12 N512,Trauma - Child,01 4096100
+IE_20012,Pobal: Otharlann Ceantair an Chlocháin Léith,54.952,-8.3576461,Gweedore Road,An Clochán Liath,F94 Y326,Community,074 9121044
+IE_20121,St Patrick's Mental Health Services,53.344,-6.2918531,Steeven’s Lane,Dublin 8,D08 K7YW,Mental Health,01 2493200
+IE_20301,Venegas House,53.291,-6.1321107,88 George's Street Upper,Dun Laoghaire,A96 N9P8,Mental Health,01 217 2100
+IE_20302,Cluain Mhuire,53.28,-6.1873488,"Galloping Green, Stillorgan Road",Blackrock,A94 Y8W7,Mental Health,01 217 2100
+IE_20306,Fairview Community Unit,53.368,-6.2419413,"Gheel Autism Services, Griffith Court",Dublin 3,D03 H504,Mental Health,01 884 2820
+IE_20307,Cluain Lir Care Centre,53.536,-7.3521874,Longford Road,Mullingar,N91 T267,Mental Health,044 939 4931
+IE_20309,St. Otteran's Hospital,52.247,-7.1035579,John's Hill,Waterford,X91 DK31,Mental Health,051 848 000
+IE_20310,Selskar House,52.344,-6.478264,Farnogue Healthcare Unit,Wexford,Y35 HK84,Mental Health,053 9157800
+IE_20311,Haywood Lodge,52.357,-7.7136989,Heywood Road,Clonmel,E91 NV91,Mental Health,052 6177458
+IE_20314,An Coilin,53.849,-9.307446,"An Coillin, Westport Road",Castlebar,F23 H744,Mental Health,094 902 1333
+IE_20315,Teach Aisling ,53.847,-9.3109358,"Teach Aisling, Westport Road",Castlebar,F23 R528,Mental Health,094 902 1333
+IE_20316,St. Anne's Sacred Heart Hospital,53.863,-9.2990032,Pontoon Road,Castlebar,F23 XV38,Mental Health,094 902 1122
+IE_20317,Saint John's Community Hospital,54.28,-8.4686546,"Ballytivnan Road, Ballytivnan",Sligo,F91H 224,Mental Health,071 914 2606
+IE_20320,St. Joseph's centre,53.387,-6.4324126,Clonsilla Road,Dublin 15,D15 DH6F,Mental Health,01 821 7177
+IE_20303,HSE Mental Health Services,53.317,-6.2413504,"8 Vergemount Hall, Clonskeagh Road",Dublin 6,D06 TC53,Mental Health,01 268 0300
+IE_20304,"HSE, Phoenix Care Centre",53.357,-6.2854799,North Circular Road,Dublin 7,D07 VPT0,Mental Health,01 795 8700
+IE_20305,"HSE, Connolly Hospital",53.389,-6.3681384,Mill Road,Dublin 15,D15 X40D,Mental Health,01 646 5000
+IE_20171,The Incorporated Orthopaedic Hospital of Ireland,53.367,-6.2015905,Blackheath Park,Dublin 3,D03 AY95,Orthopaedic,01 8332521
+IE_20043,"Swinford District Hospital, ",53.943,-8.945908,Dublin Road,Swinford,F12 K229,Community,094 9251102
+IE_20173,"Mount Alvernia Hospital, ",52.124,-8.6846247,Newberry,Mallow,P51 XT95,Psycho-Geriatric,022 21405
+IE_20082,St. Vincents University Hospital,53.317,-6.2132497,"Elm Park, Nutley Lane",Dublin 4,D04 T6F4,General/Acute,01 2214000 
+IE_20003,Abbeyleix District Hospital,52.912,-7.342784,Ballinakill Road,Abbeyleix,R32 FV52,Community,057 8731204
+IE_20136,Community Hospital Of The Assumption,52.685,-7.8228178,Castlemeadows,Thurles,E41 YN59,Geriatric,0504 21055
+IE_20044,Baggot Street Community Hospital,53.334,-6.2440461,14/18 Baggot Street Upper,Dublin 4,D04 T6N3,Community,01 6681577
+IE_20040,Ballina District Hospital,54.114,-9.1656306,Mercy Road,Ballina,F26 PP92,Community,096 21166
+IE_20009,Sheil Hospital,54.502,-8.1840267,College Street,Ballyshannon,F94 DR40,Community,071 9851300
+IE_20001,Baltinglass District Hospital,52.932,-6.6791275,Newtownsaunders,Baltinglass,W91 EK59,Community,059 6481255
+IE_20022,Bandon Community Hospital,51.744,-8.724588,Cloughmacsimon,Bandon,P72 W564,Community,023 8841403
+IE_20188,Beacon Hospital,53.277,-6.2199599,"Beacon Court, Sandyford Industrial Estate",Dublin 18,D18 AK68,Private General,01 2945444
+IE_20005,Birr District Hospital,53.098,-7.8996535,Sandymount,Birr,R42 VN80,Community,057 9120819
+IE_20152,Blackrock Hospice,53.299,-6.178284,"Hospice, Sweetman's Avenue",Blackrock,A94 F8D9,Hospice,01 2064000
+IE_20177,Blackrock Clinic,53.303,-6.1881716,Rock Road,Blackrock,A94 E4X7,Private General,01 2832222
+IE_20123,Bloomfield Care Centre,53.272,-6.3052881,Stocking Lane,Dublin 16,D16 C6T4,Mental Health,01 4950021
+IE_20101,Central Mental Hospital,53.3,-6.2419015,Dundrum Road,Dublin 14,D14 W0V6,Mental Health,01 2989266
+IE_20006,Cahercalla Community Hospital,52.833,-9.0038024,Cahircalla,Ennis,V95 NR59,Community,065 6824388
+IE_20319,Cappahard Lodge,52.855,-8.9635264,Cappahard,Ennis,V95 CR29,Mental Health,
+IE_20010,Carndonough Community Hospital,55.245,-7.2677041,Derry Road,Carndonagh,F93 EW7T,Community,074 9374262
+IE_20105,"Saint Vincent's Hospital, ",53.367,-6.2439101,Convent Avenue,Dublin 3,D03 XK40,Mental Health,01 8842436
+IE_20190,"Saint Vincent's Private Hospital, ",53.315,-6.2092009,"Herbert Avenue, Merrion Road",Dublin 4,D04 N2E0,Private General,01 2609200
+IE_20072,Roscommon University Hospital,53.625,-8.175083,,Ardsallagh Beg,F42 AX61,General/Acute,090 6626200
+IE_20108,St. Canice's Hospital,52.649,-7.2319145,Dublin Road,Kilkenny,R95 P231,Mental Health,056 7784400
+IE_20090,Cork University Maternity Hospital,51.882,-8.5105663,Wilton,Cork,T12 YE02,Maternity,021 4920500
+IE_20057,Cork University Hospital,51.883,-8.510533,Wilton,Cork,T12 DC4A,General/Acute,"021 4546400, 021 4920222 (A/E)"
+IE_20030,Kenmare Community Hospital,51.889,-9.5816424,,Kenmare,V93 AW24,Community,064 6679500
+IE_20056,Bantry General Hospital,51.676,-9.4496713,Carrignagat,Bantry,P75 DX93,General/Acute,027 50133
+IE_20089,Beaumont Hospital,53.392,-6.2256538,Beaumont Road,Dublin 9,D09 C562,General/Acute,01 8093000
+IE_20093,Coombe Women & Infant University Hospital,53.335,-6.2885074,Dolphin's Barn Street,Dublin 8,D08 XW7X,Maternity,01 4085200
+IE_20169,Mid-Western Regional Orthopaedic Hospital,52.528,-8.7122327,Skagh,Croom,V35 F434,Orthopaedic,061 397276
+IE_20073,"University College Hospital, Galway",53.276,-9.0650136,Newcastle Road,Galway,H91 YR71,General/Acute,091 544544   
+IE_20067,Letterkenny University Hospital,54.96,-7.734343,Kilmacrennan Road,Letterkenny,F92 AE81,General/Acute,074-9125888 
+IE_20063,Louth County Hospital ,53.989,-6.4028853,Dublin Road,Dundalk,A91 E671,General/Acute,042 9334701
+IE_20088,"Mater Misericordiae University Hospital, ",53.359,-6.2682256,Eccles Street,Dublin 7,D07 R2WY,General/Acute,"01 8032000, 01 8607089 (A/E)"
+IE_20069,Mayo University Hospital,53.852,-9.3034286,Westport Road,Castlebar,F23 H529,General/Acute,094 9021733
+IE_20059,Mercy University Hospital,51.899,-8.4824487,Grenville Place,Cork,T12 WE28,General/Acute,021 2305042
+IE_20074,Midland Regional Hospital - Mullingar,53.534,-7.3491168,Longford Road,Mullingar,N91 NA43,General/Acute,044 9340221
+IE_20085,Naas General Hospital,53.211,-6.6615786,Craddockstown Road,Naas,W91 AE76,General/Acute,045 897221
+IE_20092,National Maternity Hospital,53.34,-6.2459929,Holles Street,Dublin 2,D02 YH21,Maternity,01 6373100
+IE_20078,Mid Western Regional Hospital,52.858,-8.1911951,Tyone,Nenagh,E45 PT86,General/Acute,067 31491
+IE_20065,Our Lady of Lourdes Hospital Drogheda,53.723,-6.3549471,,Drogheda,A92 VW28,General/Acute,041 9837601
+IE_20095,Our Lady's Children's Hospital Crumlin,53.326,-6.3186033,Crumlin,Dublin 12,D12 N512,Paediatric,01 4096100
+IE_20066,Our Lady's General Hospital,53.65,-6.6971448,,Navan,C15 RK7Y,General/Acute,046 9078500
+IE_20071,"Portiuncula Hospital, Ballinasloe (WHB)",53.327,-8.234634,,Ballinasloe,H53 T971,General/Acute,090 9648221
+IE_20094,Rotunda Hospital,53.352,-6.2631586,Parnell Street,Dublin 1,D01 P5W9,Maternity,01 8730700
+IE_20166,Royal Victoria Eye and Ear Hospital,53.333,-6.2561832,Adelaide Road,Dublin 2,D02 XK51,Opthalmic/ENT,01 6644600
+IE_20060,South Infirmary Victoria University Hospital,51.894,-8.4637918,Old Blackrock Road,Cork,T12 X23H,General/Acute,021 4926100
+IE_20052,South Tipperary General Hospital,52.355,-7.7143207,Western Road,Clonmel,E91 VY40,General/Acute,052 6177000
+IE_20081,St. Columcille's Hospital,53.243,-6.1324326,Bray Road,Loughlinstown,D18 V9K1,General/Acute,01 2825800
+IE_20083,"Saint James's Hospital, ",53.339,-6.2966277,James's Street,Dublin 8,D08 NHY1,General/Acute,01 4537941
+IE_20053,St Luke's General Hospital Kilkenny,52.666,-7.2627999,Freshford Road,Kilkenny,R95 FY71,General/Acute,056 7785000
+IE_20125,St Luke's Radiation Oncology Network,53.31,-6.2674825,Highfield Road,Dublin 6,D06 HH36,Cancer,01 4065000
+IE_20054,University Hospital Waterford,52.249,-7.0785003,Dunmore Road,Waterford,X91 ER8E,General/Acute,051 848000
+IE_20055,Wexford General Hospital,52.343,-6.4824022,Newtown Road,Wexford,Y35 Y17D,General/Acute,053 9142233
+IE_20061,University Hospital Kerry,52.265,-9.6891505,,Tralee,V92 NX94,General/Acute,066 7184000
+IE_20079,Mid-Western Regional Hospital,52.636,-8.6533329,"Saint Nessan's Road, Dooradoyle",Limerick,V94 F858,General/Acute,061 301111  
+IE_20162,Cherry Orchard Hospital ,53.343,-6.3782883,Ballyfermot Road,Dublin 10,D10 Y821,Mixed Use,01 6206000
+IE_20096,Temple Street Children's University Hospital,53.357,-6.2621584,Temple Street,Dublin 1,D01 F772,Paediatric,01 8784344
+IE_20279,Children's University Hospital Temple Street,53.357,-6.26204,Temple Street,Dublin 1,D01 YC67,Trauma - Child,01 8784344
+IE_20087,Connolly Hospital Blanchardstown,53.389,-6.3681384,Mill Road,Dublin 15,D15 X40D,General/Acute,01 6465000
+IE_20077,Midwestern Regional Hospital Ennis,52.851,-8.9832478,Gort Road,Ennis,V95 HN29,General/Acute,065 6824464
+IE_20064,Monaghan Geriatric Hospital,54.249,-6.9743529,,Monaghan,H18 NV91,General/Acute,047 38800
+IE_20034,"Macroom Community Hospital, ",51.907,-8.9676501,,Macroom,P12 AX83,Community,026 41002
+IE_20184,Aut Even Hospital,52.677,-7.2700288,Freshford Road,Kilkenny,R95 D370,Private General,056 7775275
+IE_20185,Barrington's Hospital,52.667,-8.6213802,George's Quay,Limerick,V94 HE2T,Private General,061 313334
+IE_20182,Bon Secours Hospital - Kerry,52.27,-9.7130377,Strand Street,Tralee,V92 P663,Private General,066 7149800
+IE_20180,Bon Secours Hospital - Galway,53.278,-9.0196194,Renmore Road,Galway,H91 KC7H,Private General,091 757711
+IE_20178,Bon Secours Hospital - Dublin ,53.376,-6.2673872,Glasnevin Hill,Dublin 9,D09 YN97,Private General,01 8375111
+IE_20176,Bon Secours Hospital ,51.892,-8.4973036,College Road,Cork,T12 DV56,Private General,021 4542807
+IE_20181,Galway Clinic,53.283,-8.9738492,Doughiska,Galway,H91 HHT0,Private General,091 785000
+IE_20193,Hermitage Medical Clinic,53.359,-6.4059973,Lucan Road Old,Dublin 20,D20 W722,Private General,01 6459000
+IE_20194,The Mater Private - Cork,51.886,-8.4061993,"Building 3000, City Gate, Mahon",Cork,T12 K199,Private General,021-6012300
+IE_20179,Mater Private Hospital,53.358,-6.2643215,Eccles Street,Dublin 7,D07 WKW8,Private General,01 8858888
+IE_20187,Saint Francis Private Hospital,53.514,-7.3347474,Ballinderry,Mullingar,N91 FE40,Private General,044 9341500
+IE_20186,"Kingsbridge Private Hospital, ",54.269,-8.4816048,Ray Mcsharry Road,Sligo,F91 X054,Private General,071 9162649
+IE_20192,Whitfield Clinic,52.24,-7.1717221,"Cork Road, Butlerstown North",Waterford,X91 DH9W,Private General,051 590296
+IE_20210,Sports Surgery Clinic,53.405,-6.2536635,"Northwood Avenue, Northwood, Santry",Dublin 9,D09 C523,Private General,01-5262000
+IE_20145,Saint Columba's Hospital,52.53,-7.1319996,,Thomastown,R95 YY96,Geriatric & Rehab,056 24178
+IE_20039,Youghal Community Hospital,51.958,-7.8600553,Upper Cork Hill,Youghal,P36 HX95,Community,024 92106
+IE_20321,Saint James's Hospital Children's Health Ireland,53.339,-6.2966277,James's Street,Dublin 8,D08 NHY1,Paediatric,
+IE_20075,Midland Regional Hospital - Portlaoise,53.038,-7.275993,Dublin Road,Portlaoise,R32 RW61,General/Acute,057 8621364
+IE_20086,Adelaide & Meath Hospital Inc NCH,53.291,-6.378254,Belgard Square North,Dublin 24,D24 NR0A,General/Acute,01 4142000
+IE_20084,St. Michael's Hospital ,53.294,-6.1385232,George's Street Lower,Dun Laoghaire,A96 P902,General/Acute,01 2806901
+IE_20167,Kilcreene Regional Orthopaedic Hospital,52.652,-7.2742345,,Kilkenny,R95 DK07,Orthopaedic,056 52465
+IE_20038,"Skibbereen District Hospital, ",51.564,-9.2632366,Coolnagurrane,Skibbereen,P81 HC43,Community,028 21677
+IE_20076,Midland Regional Hospital - Tullamore,53.282,-7.4910106,Arden Road,Tullamore,R35 NY51,General/Acute,057 93 21501
+IE_20062,Cavan General Hospital,54.002,-7.3722034,Lisdarn,Cavan,H12 Y7W1,General/Acute,049 4376000
+IE_20070,Galway University Hospital - Merlin Park,53.277,-8.9931987,Merlin Park,Galway,H91 N973,General/Acute,091 775775
+IE_20080,St John's Hospital Limerick,52.663,-8.6170647,John's Street,Limerick,V94 H272,General/Acute,061 462222
+IE_20170,National Orthopaedic Hospital Cappagh,53.394,-6.3277039,Cappagh Road,Dublin 11,D11 EV29,Orthopaedic,01 8140400
+IE_20023,Cahirciveen Community Hospital,51.942,-10.234503,Valentia Road,Caherciveen,V23 PW84,Community,066 9472100
+IE_20024,Castletownbere Community Hospital,51.652,-9.9006934,Derrymihan West,Castletownbere,P75 PW81,Community,027 70004
+IE_20027,Dunmanway Community Hospital,51.729,-9.0898074,Ballyhalwick,Dunmanway,P47 WN27,Community,023 8845102
+IE_20007,Ennistymon Community Hospital,52.936,-9.3157994,Dough,Ennistymon,V95 CD58,Community,065 7071622
+IE_20029,Kanturk Community Hospital,52.176,-8.9166656,,Kanturk,P51 PT61,Community,029 50024
+IE_20031,Killarney Community Hospital,52.065,-9.5172649,Saint Margaret's Road,Killarney,V93 EH42,Community,"064 66 31076, 064 66 31018"
+IE_20014,Lifford Community Hospital,54.831,-7.4833754,Bridge,Lifford,F93 YW02,Community,074 9141033
+IE_20046,Our Lady's Community Hospital,54.304,-8.1672055,,Manorhamilton,F91 X012,Community,071 9855123
+IE_20211,Mount Carmel,53.305,-6.2655539,Braemor Park,Dublin 14,D14 A5R2,Community,01-4063423
+IE_20041,Belmullet District Hospital,54.228,-9.9863315,,Belmullet,F26 K1H9,Community,097 81301
+IE_20197,Buncrana,55.134,-7.4501145,Maginn Avenue,Buncrana,F93 X225,Community,074-9135104
+IE_20051,Our Lady's County & Surgical Hospital,52.514,-7.8883104,"Our Lady's Campus, Lower Green",Cashel,E25 P407,Community,062 61022
+IE_20163,Peamount Hospital,53.317,-6.4837307,Peamount Road,Newcastle,D22 W1Y6,Mixed Use,01 6010300
+IE_20161,St. Colman's Hospital,52.934,-6.2397757,Ballygannon,Rathdrum,A67 AK06,Mixed Use,0404 46109
+IE_20164,St. Joseph's Hospital,53.383,-6.1820611,Springdale Road,Dublin 5,D05 W504,Mixed Use,01 8474900
+IE_20068,Sligo University Hospital,54.274,-8.463361,The Mall,Sligo,F91 H684,General/Acute,071 9171111
+IE_20058,Mallow General Hospital,52.151,-8.6636069,Kilknockin,Mallow,P51 N288,General/Acute,022 58700
+IE_20322,University Maternity Hospital Limerick,52.667,-8.6333681,Ennis Road,Limerick,V94 C566,Maternity,061 327455
+IE_20018,Castlecomer District Hospital,52.799,-7.214015,Donaguile,Castlecomer,R95 A5XC,Community,056 4441246
+IE_20011,Donegal Community Hospital,54.656,-8.0990538,Drumlonagher,Donegal,F94 V670,Community,074 9721019
+IE_20033,Listowel Community Hospital,52.447,-9.4977005,Convent Road,Listowel,V31 RF79,Community,068 21022
+IE_20026,Dingle Community Hospital,52.136,-10.266343,Farran,Dingle,V92 PF65,Community,066 9151455
+IE_20008,Raheen Community Hospital,52.894,-8.5076351,,Tuamgraney,V94 AE71,Community,061 923007
+IE_20205,Castlebar,53.863,-9.2990032,Pontoon Road,Castlebar,F23 XV38,Community,
+IE_20017,St. Brigid's District Hospital,52.348,-7.4040396,Pill Road,Carrick-on-suir,E32 D281,Community,051 640025
+IE_20000,St. Finbarr's Hospitals,51.889,-8.4598393,Douglas Road,Cork,T12 XH60,Community,021 4966555
+IE_20050,Saint John's Community Hospital,54.28,-8.4686546,"Ballytivnan Road, Ballytivnan",Sligo,F91 H224,Community,071 9142606
+IE_20165,Saint Patrick's Community Hospital,53.95,-8.0861525,Summerhill,Carrick-on-shannon,N41 P897,Mixed Use,07 19620011
+IE_20020,St. Vincent's District Hospital,52.088,-7.635731,Springmount,Dungarvan,X35 WA22,Community,058 20992
+IE_20025,Clonakilty Community Hospital,51.63,-8.876376,"Mount Carmel, Convent Road",Clonakilty,P85 K160,Community,023-8833205
+IE_20028,Fermoy Community Hospital,52.139,-8.2559119,Courthouse Road,Fermoy,P61 H582,Community,025 31300
+IE_20021,Gorey District Hospital,52.674,-6.3000628,,Gorey,Y25 KX86,Community,053 9421102 
+IE_20013,Killybegs Community Hospital,54.638,-8.4388963,Donegal Road,Killybegs,F94 PK84,Community,074 9732044
+IE_20032,Kinsale Community Hospital,51.713,-8.5270831,Rath Beg,Kinsale,P17 A027,Community,021 4772202
+IE_20035,Midleton Community Hospital,51.918,-8.1726615,The Green,Midleton,P25 DT96,Community,021 4631516
+IE_20196,Ramelton ,55.034,-7.6483386,Back Road,Ramelton,F92 PX58,Community,074-9151049
+IE_20016,Carlow District Hospital,52.842,-6.9273239,Athy Road,Carlow,R93 DE62,Community,059 9136458
+IE_20141,Sacred Heart Hospital,52.843,-6.9248702,Old Dublin Road,Carlow,R93 V825,Geriatric & Rehab,059 9136460
+IE_20037,Schull Community Hospital,51.522,-9.5461091,Colla Road,Schull,P81 NT97,Community,028 28120
+IE_20048,St' Ita's Hospital,52.456,-9.0540222,,Newcastle West,V42 HD66,Community,069 62311
+IE_20126,St. Mary's Hospital,53.711,-6.3410163,Dublin Road,Drogheda,A92 X862,Continuing Care Service,041 9838680
+IE_20019,St. Theresa's District Hospital,52.272,-7.9915916,Mountanglesby,Clogheen,E21 Y447,Community,052 65205
+IE_20206,Saint Camillus Hospital,52.669,-8.641006,Shelbourne Road,Limerick,V94 5V24,Community,
+IE_20015,Saint Joseph's Community Hospital,54.805,-7.7510405,Mullindrait,Stranorlar,F93 FCR6,Community,074 9131038
+IE_20049,"Saint Mary's Hospital, ",54.12,-6.7448035,Bree,Castleblayney,A75 TD61,Community,042 9740014
+IE_20045,Saint Vincent's Hospital,52.998,-6.9948139,Woodstock Street,Athy,R14 AY22,Community,059 8631614
+IE_20127,University Dental School & Hospital,51.884,-8.5129118,Wilton,Cork,T12 E8YV,Dental,021 4545100
+IE_20149,"Marymount  Hospice, ",51.871,-8.5415865,Curraheen,Carrigrohane,T12 A710,Hospice,021 4501201
+IE_20137,"Saint Patricks Hospital, ",52.512,-7.8918616,Cahir Road,Cashel,E25 DX72,Geriatric,062 61100
+IE_20129,St. Mary's Hospital,53.35,-6.3363413,"Acres Road, Phoenix Park",Dublin 20,D20 TY72,Geriatric,01 6250300
+IE_20131,St. Brigid's Hospital,53.078,-7.2501401,"Shaen, The Heath",Portlaoise,R32 FD60,Geriatric,057 8646717
+IE_20142,St. Joseph's Hospital,52.852,-8.9779389,Lifford Road,Ennis,V95 RT99,Geriatric & Rehab,065 6840666
+IE_20134,St. Joseph's Hospital,53.857,-6.5437433,,Ardee,A92 Y394,Geriatric,041 6853304
+IE_20135,St. Oliver Plunkett Hospital,53.989,-6.4028853,Dublin Road,Dundalk,A91 E671,Geriatric,042 9334488
+IE_20147,St. Joseph's Hospital,53.551,-6.7900969,,Trim,C15 P592,Geriatric & Rehab,046 9431229
+IE_20146,St. Vincent's Hospital,53.112,-7.3240326,Irishtown,Mountmellick,R32 HK85,Geriatric & Rehab,057 8631204
+IE_20155,Donegal Hospice,54.964,-7.7296377,"Cleary House, Knocknamona",Letterkenny,F92 KW18,Hospice,074 9177256
+IE_20153,Galway Hospice Foundation,53.278,-9.0181932,Dublin Road,Galway,H91 R2T0,Hospice,091 770868
+IE_20156,Milford Hospice,52.671,-8.571591,"Plassey Park Road, Castletroy",Limerick,V94 H795,Hospice,061 485800
+IE_20154,Sligo University Hospital,54.274,-8.463361,The Mall,Sligo,F91 H684,Hospice,071 9143317
+IE_20150,"Our Ladys Hospice, ",53.327,-6.2814812,Harold's Cross Road,Dublin 6w,D6W RY72,Hospice,01 4068700
+IE_20151,Saint Francis Hospice,53.385,-6.1748611,Station Road,Dublin 5,D05 E392,Hospice,01 8327535
+IE_20160,St. Paul's Hospital & Special School,53.39,-6.2307057,Coolgreena Road,Dublin 9,D09 XN88,Intellectual Disability,01 8377673
+IE_20158,St. Raphael's Centre,51.95,-7.8538775,Barrack Road,Youghal,P36 C596,Intellectual Disability,024 92422
