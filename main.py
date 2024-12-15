@@ -3,6 +3,7 @@ import sqlite3
 import time
 import getpass
 from hashlib import sha256
+from inputimeout import inputimeout, TimeoutOccurred
 
 # ================= Constants ===================
 DB_PATH = "health_centres.db"
@@ -39,13 +40,7 @@ def execute_query(query, params=()):
 
 # ==================== for user interface ===================
 def user_interface():
-    start_time = time.time()
-
     while True:
-        if time.time() - start_time > INACTIVITY_TIMEOUT:
-            print("\nSession timed out due to inactivity. Returning to the main menu.\n")
-            break
-
         print("\nWelcome to the HSE information Kisok\nChoose from the selection presented")
         print('\nGeneral Site Search')
         print("1. By town")
@@ -83,6 +78,7 @@ def user_interface():
                     print('-------------------------------')
             else:
                 print("\nNo results found.")
+            break
         elif choice == "2":
             print("\nImplementation in-progress\n")
             break
@@ -144,7 +140,7 @@ def user_interface():
         else:
             print("\nInvalid choice. Please try again.\n")
 
-        start_time = time.time()
+    activity_timeout()
 
 
 # =============== for admin interface ======================
@@ -197,6 +193,14 @@ def admin_interface():
 
         else:
             print("Invalid choice. Please try again.")
+
+# ================ activity timeout ================
+def activity_timeout(duration=INACTIVITY_TIMEOUT):
+    try:
+        inputimeout(prompt=f"\nPress any key to continue ({duration}s timeout): ", timeout=duration)
+    except TimeoutOccurred:
+        print("\nNo activity detected. Returning to main menu.")
+        main()
 
 # ================ main function ===================
 def main():
